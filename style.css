@@ -1,0 +1,169 @@
+*{
+    /* background-color: black; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+   
+}
+
+.gold{
+    font-family: 'Great Vibes',cursive;
+    color: rgb(241, 211, 38);
+    margin: 20px;
+    width: 90px;
+    height: 50px; 
+}
+.pictures{
+    width: 100%;
+    height: 60vh;
+    border: 3px solid grey;
+    background-color: rgba(0, 0, 0, 0.849);
+    display: flex;
+    justify-content: center;
+
+    
+}
+.heading{
+    /* border: 2px solid red; */
+    width: 550px;
+    height: 70vh;
+    color:white;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.user{
+    background-color:rgba(0, 0, 0, 0.849);
+    color: white;
+    border-radius: 20px;
+    padding: 5px 10px 5px 10px ;
+    margin-top: 40px;
+    font-size: 15px;
+}
+.goldpic{
+    /* border: 2px solid red; */
+    width: 450px;
+    height: 55vh;
+    margin-left: 30px;
+    
+}
+.user:hover{
+    background-color:rgb(241, 211, 38); 
+    color: rgba(0, 0, 0, 0.849);
+}
+#textgold{
+    color:rgb(241, 211, 38);;
+}
+#centertext{
+    text-align: center;
+    
+    color: white;
+    background-color: rgba(0, 0, 0, 0.849);
+    font-family: 'Times New Roman', Times, serif;
+}
+.shops{
+    /* border: 3px solid grey; */
+    background-color: rgba(0, 0, 0, 0.849);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+}
+.pic1{
+    /* border: 2px solid red; */
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.pic1 h3{
+    color: white;
+    text-align: center;
+}
+.pic1 button{
+    margin-left: 50px;
+    border-radius: 20px;
+    padding: 5px 10px 5px 10px ;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(0, 0, 0, 0.849);
+    color: white;
+    
+}
+.pic1 button:hover{
+    background-color:rgb(241, 211, 38); 
+    color: rgba(0, 0, 0, 0.849);
+    
+}
+.ndparent{
+ /* border: 2px solid grey ; */
+ width: 100%;
+ height: 60vh;
+ background-color: rgba(0, 0, 0, 0.849);
+ display: flex;
+ justify-content: center;
+
+}
+.picdiv{
+    width: 550px;
+    height: 60vh;
+    padding: 20px;  
+}
+.textdiv{
+    color: white;
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+.textdiv button{
+    border-radius: 20px;
+    padding: 5px 10px 5px 10px ;
+    margin-top: 40px;
+    background-color: rgba(0, 0, 0, 0.849);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.textdiv button:hover{
+    background-color:rgb(241, 211, 38); 
+    color: rgba(0, 0, 0, 0.849);
+    
+}
+.next{
+    border: 2px solid grey ;
+    width: 100%;
+    height: 70vh;
+    background-color: rgba(0, 0, 0, 0.849);
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+.next1{
+    /* border: 5px solid red; */
+    width: 350px;
+    height: 60vh;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.next2{
+    /* border: 5px solid red; */
+    width: 300px;
+    height: 60vh;
+    padding-top: 50px;
+    padding-left: 20px;
+    margin-left: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+.next3{
+    /* border: 4px solid peru; */
+    width: 320px;
+    height: 60vh;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+#bold{
+    font-size: 80px;
+}
